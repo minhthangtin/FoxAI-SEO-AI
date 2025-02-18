@@ -84,19 +84,23 @@ Bước 3.Xử lý lỗi
 
 Bước 4.Điền kết quả lên link
 
-- Kết quả hỗ trợ
+- Kết quả hỗ trợ:
+   -   Tình trạng Issues:
+     -  Hoàn thành
+     -  Đang xử lý
 
 - Phân loại lỗi thành các nhóm chuẩn như sau:
-  - 1.Lỗi SAP quy chuẩn (Quantity, Xuất kho âm...)
-  - 2.Lỗi FoxAI chặn theo yêu cầu người theo
+  - 1.Lỗi SAP quy chuẩn
+  - 2.FoxAI làm thông báo chặn (không phải lỗi)
   - 3.Lỗi thao tác người dùng
   - 4.Lỗi code kỹ thuật
   - 5.Lỗi phần mềm của bên thứ 3 (Data transfer Workbend, Power BI...)
+  - 6. FoxAI từ chối thực hiện.
 - Cách giải quyết
 
-Bước 5.Follow, nếu lỗi bị Reopen.
-
-Hàng ngày, nhân viên bảo trì cập nhật trên link Google Drive (tiếp nhận lỗi qua nhóm chung, xử lý và phân loại lỗi theo 5 nhóm trên), trưởng phòng có trách nhiệm kiểm tra lại.
+Bước 5.Follow, khi phát sinh lỗi có hình ảnh:
+- Tải ảnh đấy lên thư mục dropbox, đặt tên ảnh có mã số Issues, cập nhật lại link dropbox lên google drive.
+Hàng ngày, nhân viên bảo trì cập nhật trên link Google Drive (tiếp nhận lỗi qua nhóm chung, xử lý và phân loại lỗi theo 6 nhóm trên), trưởng phòng có trách nhiệm kiểm tra lại.
 
 => Công việc cần thực hiện:
   - Mr.Toàn chuẩn hóa biên bản các giai đoạn
