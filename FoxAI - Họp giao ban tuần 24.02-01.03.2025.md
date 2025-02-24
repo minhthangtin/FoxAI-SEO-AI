@@ -20,10 +20,10 @@
 **2.3.Hỗ trợ bảo trì NEO Floor**
 |Tình trạng|Số lượng phát sinh trong tuần|Trương Minh Thắng|Lê Hải Sơn|Nguyễn Mạnh Toàn|Số lượng lũy kế|
 |---|---|---|---|---|---|
-|Hoàn thành|---|---|---|---||
+|Hoàn thành|---|3|---|---||
 |Đang xử lý|---|---|---|---||
-|Chưa xử lý|---|---|---|---||
-|Tổng cộng|---|---|---|---||
+|Chưa xử lý|---|0|---|---||
+|Tổng cộng|---|3|---|---||
 
 |Phân loại lỗi|Số lượng phát sinh trong tuần|Số lượng lũy kế|
 |---|---|---|
@@ -38,10 +38,10 @@
 **2.4.Hỗ trợ bảo trì APFCO**
 |Tình trạng|Số lượng phát sinh trong tuần|Trương Minh Thắng|Lê Hải Sơn|Nguyễn Mạnh Toàn|Số lượng lũy kế|
 |---|---|---|---|---|---|
-|Hoàn thành|---|---|---|---||
+|Hoàn thành|---|7|---|---||
 |Đang xử lý|---|---|---|---||
-|Chưa xử lý|---|---|---|---||
-|Tổng cộng|---|---|---|---||
+|Chưa xử lý|---|0|---|---||
+|Tổng cộng|---|7|---|---||
 
 |Phân loại lỗi|Số lượng phát sinh trong tuần|Số lượng lũy kế|
 |---|---|---|
